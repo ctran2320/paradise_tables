@@ -1,1 +1,1 @@
-# paradise_tables
+# Paradise Tables - Dessert Catering Business
