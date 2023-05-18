@@ -1,0 +1,181 @@
+Order ID,Item ID,Item Description,Quantity
+1,500',Small Catering Package,1
+2,110',Assorted Fruit Pastries,15
+3,50',Tres Leches Cake Cups,15
+4,50',Tres Leches Cake Cups,12
+4,60',Banana Pudding Cups,12
+4,120',Cheesecake Cookies,12
+5,150',Nutella Cheesecake Cups,6
+5,160',Cookie Butter Cheesecake Cups,6
+5,170',Earl Grey Cheesecake Cups,6
+6,20',Strawberry Cheesecake Cups,12
+6,110',Assorted Fruit Pastries,12
+7,110',Assorted Fruit Pastries,16
+7,140',Grand Fruit Tray,1
+8,20',Strawberry Cheesecake Cups,50
+8,30',Mango Cheesecake Cups,50
+8,40,Blueberry Cheesecake Cups,50
+8,10',Matcha Cheesecake Cups,50
+9,140',Grand Fruit Tray,1
+9,20',Strawberry Cheesecake Cups,12
+9,60',Banana Pudding Cups,12
+9,40',Blueberry Cheesecake Cups,12
+9,110',Assorted Fruit Pastries,15
+10,200',Deluxe Fruit Tray,1
+11,80',Chocolate Mousse Cups,12
+11,90',Strawberry Mousse Cups,12
+11,100',Mango Mousse Cups,12
+11,150',Nutella Cheesecake Cups,12
+11,160',Cookie Butter Cheesecake Cups,24
+13,180',Pumpkin Spice Cheesecake Cups,7
+13,190',Halloween Candy Cake Cups,7
+12,100',Mango Mousse Cups,20
+12,60',Banana Pudding Cups,20
+14,10',Matcha Cheesecake Cups,5
+14,160',Cookie Butter Cheesecake Cups,5
+14,30',Mango Cheesecake Cups,5
+15,30',Mango Cheesecake Cups,12
+15,10',Matcha Cheesecake Cups,12
+15,20',Strawberry Cheesecake Cups,12
+15,110',Assorted Fruit Pastries,24
+16,110',Assorted Fruit Pastries,30
+16,10',Matcha Cheesecake Cups,21
+16,180',Pumpkin Spice Cheesecake Cups,36
+16,170',Earl Grey Cheesecake Cups,34
+16,80',Chocolate Mousse Cups,30
+16,120',Cheesecake Cookies,34
+16,190',Halloween Candy Cake Cups,30
+17,170',Earl Grey Cheesecake Cups,13
+17,160',Cookie Butter Cheesecake Cups,10
+17,150',Nutella Cheesecake Cups,10
+17,30',Mango Cheesecake Cups,10
+18,60',Banana Pudding Cups,12
+18,50',Tres Leches Cake Cups,12
+19,60',Banana Pudding Cups,12
+19,110',Assorted Fruit Pastries,12
+20,110',Assorted Fruit Pastries,48
+20,30',Mango Cheesecake Cups,24
+20,20',Strawberry Cheesecake Cups,24
+21,20',Strawberry Cheesecake Cups,12
+21,80',Chocolate Mousse Cups,12
+22,80',Chocolate Mousse Cups,12
+22,110',Assorted Fruit Pastries,12
+22,160',Cookie Butter Cheesecake Cups,12
+22,60',Banana Pudding Cups,12
+22,10',Matcha Cheesecake Cups,12
+22,180',Pumpkin Spice Cheesecake Cups,12
+23,10',Matcha Cheesecake Cups,20
+23,50',Tres Leches Cake Cups,20
+23,100',Mango Mousse Cups,20
+23,150',Nutella Cheesecake Cups,20
+23,20',Strawberry Cheesecake Cups,20
+24,80',Chocolate Mousse Cups,11
+24,180',Pumpkin Spice Cheesecake Cups,13
+25,50',Tres Leches Cake Cups,20
+25,30',Mango Cheesecake Cups,20
+25,110',Assorted Fruit Pastries,18
+25,120',Cheesecake Cookies,18
+23,200',Deluxe Fruit Tray,1
+25,200',Deluxe Fruit Tray,1
+25,210',Chocolate Covered Strawberries,24
+26,30',Mango Cheesecake Cups,12
+26,10',Matcha Cheesecake Cups,12
+26,20',Strawberry Cheesecake Cups,12
+26,40',Blueberry Cheesecake Cups,12
+26,150',Nutella Cheesecake Cups,12
+27,10',Matcha Cheesecake Cups,12
+27,20',Strawberry Cheesecake Cups,12
+27,30',Mango Cheesecake Cups,12
+27,'40',Blueberry Cheesecake Cups,12
+27,200',Deluxe Fruit Tray,1
+27,210',Chocolate Covered Strawberries,24
+28,20',Strawberry Cheesecake Cups,12
+28,150',Nutella Cheesecake Cups,12
+28,110',Assorted Fruit Pastries,12
+29,220',Salted Caramel Cups,6
+29,230',Coffee Cups,6
+30,150',Nutella Cheesecake Cups,12
+30,30',Mango Cheesecake Cups,12
+30,160',Cookie Butter Cheesecake Cups,12
+30,110',Assorted Fruit Pastries,18
+30,120',Cheesecake Cookies,18
+30,140',Grand Fruit Tray,1
+31,160',Cookie Butter Cheesecake Cups,12
+31,30',Mango Cheesecake Cups,12
+31,150',Nutella Cheesecake Cups,12
+32,110',Assorted Fruit Pastries,24
+32,40',Blueberry Cheesecake Cups,12
+32,80',Chocolate Mousse Cups,12
+32,100',Mango Mousse Cups,12
+33,30',Mango Cheesecake Cups,12
+33,150',Nutella Cheesecake Cups,12
+33,110',Assorted Fruit Pastries,12
+33,60',Banana Pudding Cups,12
+33,50',Tres Leches Cake Cups,12
+34,110',Assorted Fruit Pastries,12
+35,110',Assorted Fruit Pastries,12
+35,170',Earl Grey Cheesecake Cups,12
+35,30',Mango Cheesecake Cups,12
+36,150',Nutella Cheesecake Cups,12
+36,60',Banana Pudding Cups,12
+37,110',Assorted Fruit Pastries,36
+37,80',Chocolate Mousse Cups,23
+37,50',Tres Leches Cake Cups,23
+37,10',Matcha Cheesecake Cups,23
+37,210',Chocolate Covered Strawberries,24
+38,110',Assorted Fruit Pastries,24
+38,50',Tres Leches Cake Cups,12
+38,60',Banana Pudding Cups,12
+38,160',Cookie Butter Cheesecake Cups,12
+38,100',Mango Mousse Cups,12
+39,60',Banana Pudding Cups,20
+39,160',Cookie Butter Cheesecake Cups,20
+39,150',Nutella Cheesecake Cups,20
+39,170',Earl Grey Cheesecake Cups,20
+39,30',Mango Cheesecake Cups,20
+40,110',Assorted Fruit Pastries,36
+41,110',Assorted Fruit Pastries,24
+41,60',Banana Pudding Cups,24
+41,50',Tres Leches Cake Cups,24
+41,150',Nutella Cheesecake Cups,24
+41,170',Earl Grey Cheesecake Cups,24
+41,30',Mango Cheesecake Cups,24
+41,10',Matcha Cheesecake Cups,24
+41,240',Chocolate Chip Cookies,24
+41,250',Sugar Cookies,24
+42,10',Matcha Cheesecake Cups,1
+42,110',Assorted Fruit Pastries,1
+42,60',Banana Pudding Cups,1
+42,50',Tres Leches Cake Cups,1
+42,150',Nutella Cheesecake Cups,1
+42,170',Earl Grey Cheesecake Cups,1
+42,30',Mango Cheesecake Cups,1
+43,50',Tres Leches Cake Cups,20
+43,30',Mango Cheesecake Cups,20
+43,260',Jello Custard Cups,20
+43,120',Cheesecake Cookies,35
+43,110',Assorted Fruit Pastries,35
+43,210',Chocolate Covered Strawberries,50
+43,200',Deluxe Fruit Tray,2
+44,100',Mango Mousse Cups,15
+44,90',Strawberry Mousse Cups,15
+45,10',Matcha Cheesecake Cups,12
+45,110',Assorted Fruit Pastries,12
+45,50',Tres Leches Cake Cups,12
+45,60',Banana Pudding Cups,12
+46,150',Nutella Cheesecake Cups,50
+46,30',Mango Cheesecake Cups,50
+46,170',Earl Grey Cheesecake Cups,50
+46,90',Strawberry Mousse Cups,50
+47,60',Banana Pudding Cups,20
+47,150',Nutella Cheesecake Cups,20
+47,110',Assorted Fruit Pastries,18
+47,120',Cheesecake Cookies,18
+47,200',Deluxe Fruit Tray,1
+47,210',Chocolate Covered Strawberries,24
+48,20',Strawberry Cheesecake Cups,20
+48,10',Matcha Cheesecake Cups,20
+48,110',Assorted Fruit Pastries,18
+48,120',Cheesecake Cookies,18
+48,200',Deluxe Fruit Tray,1
+48,210',Chocolate Covered Strawberries,24

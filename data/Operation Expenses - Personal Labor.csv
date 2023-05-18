@@ -1,0 +1,84 @@
+Order ID,Labor ID,Labor Description,Hours
+10,100',Buying Ingredients,0.25
+10,200',Making Desserts,0.83
+10,300',Delivery,0.5
+13,100',Buying Ingredients,0.67
+13,200',Making Desserts,2
+11,100',Buying Ingredients,0.625
+11,200',Making Desserts,4
+11,300',Delivery,0.833
+12,100',Buying Ingredients,0.625
+12,200',Making Desserts,4
+12,300',Delivery,0.333
+14,200',Making Desserts,2
+17,100',Buying Ingredients,0.5
+17,200',Making Desserts,3.5
+18,100',Buying Ingredients,0.5
+18,200',Making Desserts,3.5
+19,100',Buying Ingredients,0.5
+19,200',Making Desserts,3.5
+20,100',Buying Ingredients,0.5
+20,200',Making Desserts,3.5
+21,100',Buying Ingredients,1
+21,200',Making Desserts,2
+22,100',Buying Ingredients,0.75
+22,200',Making Desserts,8
+23,100',Buying Ingredients,0.75
+23,200',Making Desserts,8
+23,300',Delivery,2
+24,200',Making Desserts,3
+25,100',Buying Ingredients,1.5
+25,200',Making Desserts,8
+26,100',Buying Ingredients,1
+26,200',Making Desserts,5
+27,100',Buying Ingredients,0.67
+27,200',Making Desserts,3
+27,300',Delivery,0.5
+28,100',Buying Ingredients,0.67
+28,200',Making Desserts,3
+29,100',Buying Ingredients,0.67
+29,200',Making Desserts,3
+30,100',Buying Ingredients,0.75
+30,200',Making Desserts,6
+31,100',Buying Ingredients,0.15
+31,200',Making Desserts,5
+32,100',Buying Ingredients,0.2
+32,200',Making Desserts,4
+33,100',Buying Ingredients,0.2
+33,200',Making Desserts,4
+34,100',Buying Ingredients,0.2
+34,200',Making Desserts,2
+35,100',Buying Ingredients,0.15
+35,200',Making Desserts,4
+36,100',Buying Ingredients,0.25
+36,200',Making Desserts,1.5
+37,100',Buying Ingredients,0.5
+37,200',Making Desserts,5.5
+37,300',Delivery,1
+37,400',Set Up,1
+38,100',Buying Ingredients,0.5
+38,200',Making Desserts,5.5
+41,100',Buying Ingredients,1.15
+41,200',Making Desserts,11
+41,300',Delivery,0.5
+41,400',Set Up,1
+42,100',Buying Ingredients,0.5
+42,200',Making Desserts,2
+43,100',Buying Ingredients,1
+43,200',Making Desserts,6
+43,300',Delivery,0.3
+43,400',Set Up,1
+44,100',Buying Ingredients,0.75
+44,200',Making Desserts,2.5
+45,100',Buying Ingredients,0.5
+45,200',Making Desserts,3
+46,100',Buying Ingredients,1.1
+46,200',Making Desserts,7
+47,100',Buying Ingredients,0.75
+47,200',Making Desserts,5.5
+47,300',Delivery,0.75
+47,400',Set Up,0.5
+48,100',Buying Ingredients,0.6
+48,200',Making Desserts,6
+48,300',Delivery,0.15
+48,400',Set Up,0.5
