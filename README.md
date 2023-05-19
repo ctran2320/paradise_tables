@@ -9,6 +9,7 @@ Last August of 2022, I started a dessert catering side-business that I do on the
 I also wanted to practice my SQL knowledge/ability and answer 10 questions that a potential manager/business owner may ask of me. In this case, I'm my own boss so I explored questions that seemed interesting to me and answered them via SQL & Python.
 
 ## Data
+![ERD](https://github.com/ctran2320/paradise_tables/assets/133697095/c3bb9212-f1c5-4ff4-9c04-62af816fbf92)
 
 ## Analysis
 Tableau Dashboard:
