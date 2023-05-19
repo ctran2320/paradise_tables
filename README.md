@@ -1,4 +1,6 @@
 # Paradise Tables - Dessert Catering Business
+![Fresh Fruit illustration Food Logo (2)-modified](https://github.com/ctran2320/paradise_tables/assets/133697095/ba112350-f975-4933-a101-5394fa881f5a)
+
 ## Tableau Dashboard: https://public.tableau.com/app/profile/charlie.tran3526/viz/paradise_tables/OverallPerformance
 
 ## Background/Goal:
